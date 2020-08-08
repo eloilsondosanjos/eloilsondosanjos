@@ -1,13 +1,8 @@
-<img width="auto" src="">
-
-
-# Eloilson dos Anjos :angel:
+<img width="auto" src="https://github.com/eloilsondosanjos/banner/blob/master/Fundo%20virtual%20para%20Zoom%20verde%20neon%20e%20preto%20sobre%20tecnologia.gif">
 
 ## Olá pessoal :wave:
 
-Sou um FullStack Developer 
-
-Apaixonado por tecnologia, autodidata em outros segmentos, venho me aventurando no mundo do desenvolvimento de software onde estudar, compartilhar e ajudar as pessoas são minhas prioridades, curioso por natureza, sempre gostei de estar atualizado e em constante evolução, e para me manter alinhado aos meus objetivos, contando com a ajuda da comunidade, foco e muita prática para conseguir alcançar meus sonhos, na batida certa 🥁
+Sou apaixonado por tecnologia, autodidata em outros segmentos, venho me aventurando no mundo do desenvolvimento de software onde estudar, compartilhar e ajudar as pessoas são minhas prioridades, curioso por natureza, sempre gostei de estar atualizado e em constante evolução, e para me manter alinhado aos meus objetivos, contando com a ajuda da comunidade, foco e muita prática para conseguir alcançar meus sonhos, na batida certa 🥁
 
 
  :office:  &nbsp; Estou trabalhando na **AGE - Assessoria e Gestão Educacional**
