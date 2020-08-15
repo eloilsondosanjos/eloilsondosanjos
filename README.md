@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/eloilsondosanjos/banner/blob/master/Fundo%20virtual%20para%20Zoom%20verde%20neon%20e%20preto%20sobre%20tecnologia.gif">
+<img width="auto" src="">
 
 ## Olá pessoal :wave:
 
