@@ -1,4 +1,4 @@
-<img width="auto" src="">
+<img width="1500" height="500" src="https://github.com/eloilsondosanjos/banner/blob/master/GitHub2.gif?raw=true">
 
 ## Olá pessoal :wave:
 
