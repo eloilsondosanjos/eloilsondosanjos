@@ -12,9 +12,6 @@ Sou curioso por natureza, sempre gostei de estar atualizado em constante evoluç
  <br/> 💬  &nbsp; Mais sobre mim: Autodidata em outros segmentos, curto animes, filmes dos mais variados gêneros e músico nas horas vagas, instrumento preferido bateria claro.
  <br/> 
 
-<div style="display:flex;justify-content:center">
-	<p>:e-mail: &nbsp; Entre em contato comigo:</p>
-	<a href="www.linkedin.com/in/eloilsondosanjosrocha">
-		<img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-9871F5?style=flat&logo=Linkedin&logoColor=white" />
-	</a>
-</div>
+<a href="www.linkedin.com/in/eloilsondosanjosrocha">
+  <img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-9871F5?style=flat&logo=Linkedin&logoColor=white" />
+</a>
