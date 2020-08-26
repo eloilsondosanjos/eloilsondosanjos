@@ -15,6 +15,6 @@ Sou curioso por natureza, sempre gostei de estar atualizado em constante evoluç
 <div style="display:flex;justify-content:center">
 	<p>:e-mail: &nbsp; Entre em contato comigo:</p>
 	<a href="www.linkedin.com/in/eloilsondosanjosrocha">
-		<img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+		<img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-9871F5?style=flat&logo=Linkedin&logoColor=white" />
 	</a>
 </div>
