@@ -11,6 +11,9 @@ Sou curioso por natureza, sempre gostei de estar atualizado em constante evoluç
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.JS, React Native Typescript & Javascript.
  <br/> 💬  &nbsp; Mais sobre mim: Autodidata em outros segmentos, curto animes, filmes dos mais variados gêneros e músico nas horas vagas, instrumento preferido bateria claro.
  
- <br/> :e-mail: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EloilsondosAnjos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eloilsondosanjosrocha/)](www.linkedin.com/in/eloilsondosanjosrocha/) 
+ <br/> :e-mail: &nbsp; Entre em contato comigo: <a href="www.linkedin.com/in/eloilsondosanjosrocha">
+      <img alt="Eloilson dos Anjos" src="https://img.shields.io/badge/-Eloilson dos Anjos-9871F5?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+[![Linkedin Badge](https://img.shields.io/badge/-EloilsondosAnjos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/eloilsondosanjosrocha/)](www.linkedin.com/in/eloilsondosanjosrocha/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-eloilson.ageedu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eloilson.ageedu@gmail.com)](mailto:eloilson.ageedu@gmail.com)
