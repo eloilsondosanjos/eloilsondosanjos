@@ -17,7 +17,9 @@
  <br/> :purple_heart: &nbsp; Colaboro no desenvolvimento de sistemas e gerenciamento de projetos.
 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide=vue)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&custom_title=Mais Usadas&layout=compact&hide=vue)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&theme=default)
+
  
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
   <img alt="Eloilson dos Anjos Rocha" src="https://img.shields.io/badge/-Eloilson dos Anjos Rocha-9871F5?style=flat&logo=Linkedin&logoColor=white" />
