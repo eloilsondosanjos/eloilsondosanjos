@@ -11,7 +11,6 @@ Curioso por natureza, estou em constante evolução alinhado aos meus objetivos,
  
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide=vue)
- ![Eloilsondosanjos wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eloilsondosanjos&layout=compact)
  
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
   <img alt="Eloilson dos Anjos Rocha" src="https://img.shields.io/badge/-Eloilson dos Anjos Rocha-9871F5?style=flat&logo=Linkedin&logoColor=white" />
