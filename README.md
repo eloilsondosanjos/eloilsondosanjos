@@ -2,7 +2,7 @@
 
 ## Olá, chega aí gente boa, tudo tranquilo? :wave:
 
-Curioso por natureza, estou em constante evolução alinhado aos meus objetivos, e poder contar com a ajuda da comunidade nesse crescimento rumo ao príximo nível é sensacional, somado ao foco e muita prática é o caminho para conseguir alcançar minhas metas, na batida certa 🥁
+Curioso por natureza encaro mais esse desafio, saindo do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev, nesse crescimento rumo ao príximo nível é sensacional, sendo melhor de que eu de ontem e na batida certa 🥁
 
 
  :office:  &nbsp; Trabalho na empresa **AGE - Assessoria e Gestão Educacional**
