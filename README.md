@@ -2,9 +2,16 @@
 
 ## Olá, chega aí gente boa, tudo tranquilo? :wave:
 
-Curioso por natureza encaro mais esse desafio, saindo do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev, nesse crescimento rumo ao príximo nível é sensacional, sendo melhor de que eu de ontem e na batida certa 🥁
+🎯 Curioso por natureza embarquei no 🚀🚀🚀 e consegui sair do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano! Meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev nesse crescimento rumo ao príximo nível é sensacional. 🥁
 
-
+🧾 Algumas das tecnologias que venho estudando:
+ 
+ - **JavaScript**
+ - **Node.JS**
+ - **TypeScripit**
+ - **ReactJS**
+ - **React Native**
+ 
  :office:  &nbsp; Trabalho na empresa **AGE - Assessoria e Gestão Educacional**
  <br/> :purple_heart: &nbsp; Colaboro no desenvolvimento de sistemas e gerenciamento de projetos.
  <br/> :computer: &nbsp; Minhas ferramntas principais: ReactJS, Node.JS, React Native, Javascript e estudando bastante o Typescript e outras tecnologias sem parar no tempo.
