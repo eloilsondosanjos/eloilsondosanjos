@@ -18,11 +18,11 @@
  
   <br/>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide=vue)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
  
   <br/>
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true)
  
    
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
