@@ -16,11 +16,13 @@
  :office:  &nbsp; Trabalho na empresa **AGE - Assessoria e Gestão Educacional**
  <br/> :purple_heart: &nbsp; Colaboro no desenvolvimento de sistemas e gerenciamento de projetos.
  
+  <br/>
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide=vue)
  
   <br/>
 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide=issues,contribs&theme=default)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true)
  
    
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
