@@ -3,19 +3,19 @@
 ## Olá, chega aí gente boa, tudo tranquilo? :wave:
  <br/>
 
-🎯 Curioso por natureza embarquei no 🚀 e consegui sair do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano! Meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev nesse crescimento rumo ao príximo nível é sensacional. 🥁
+🎯 Curioso por natureza embarquei nesse foguete e consegui sair do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano! Meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev nesse crescimento rumo ao príximo nível é sensacional. 🥁
 
- ## 💻 Algumas das tecnologias que venho estudando:
- 
- - **JavaScript**
- - **Node.JS**
- - **TypeScripit**
- - **ReactJS**
- - **React Native**
- 
+ ## 🚀 Algumas das tecnologias que venho estudando:
+
+     - **JavaScript**
+     - **Node.JS**
+     - **TypeScripit**
+     - **ReactJS**
+     - **React Native**
+     
  <br/>
  
- ## Tecnologias Mais Usadas Entre Meus Projetos:
+ ##  Tecnologias Mais Usadas Entre Meus Projetos:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
  
