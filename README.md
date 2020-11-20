@@ -7,11 +7,11 @@
 
  ## 🚀 Algumas das tecnologias que venho estudando:
 
-   - **JavaScript**
-   - **Node.JS**
-   - **TypeScripit**
-   - **ReactJS**
-   - **React Native**
+   - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+   - **[Nodejs](https://nodejs.org/en/)**
+   - **[Typescript](https://www.typescriptlang.org/)**
+   - **[React](https://reactjs.org/)**
+   - **[React Native](https://facebook.github.io/react-native/)**
   
  ## 💻 Tecnologias Mais Usadas Entre Meus Projetos:
 
