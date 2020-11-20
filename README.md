@@ -19,7 +19,7 @@
  
   <br/>
   
-📌  ## estre Status Github:
+  ## 📌 Status Github:
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true)
  
