@@ -13,11 +13,13 @@
    - **[React](https://reactjs.org/)**
    - **[React Native](https://facebook.github.io/react-native/)**
   
- ## 💻 Tecnologias Mais Usadas Entre Meus Projetos:
+ ## 💻 Tecnologias mais usadas entre meus projetos:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
  
   <br/>
+  
+📌  ## estre Status Github:
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true)
  
