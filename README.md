@@ -12,9 +12,7 @@
    - **TypeScripit**
    - **ReactJS**
    - **React Native**
-     
- <br/>
- 
+  
  ## 💻 Tecnologias Mais Usadas Entre Meus Projetos:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
