@@ -5,7 +5,7 @@
 
 🎯 Curioso por natureza embarquei no 🚀 e consegui sair do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano! Meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev nesse crescimento rumo ao príximo nível é sensacional. 🥁
 
-💻 Algumas das tecnologias que venho estudando:
+ ## 💻 Algumas das tecnologias que venho estudando:
  
  - **JavaScript**
  - **Node.JS**
@@ -13,11 +13,10 @@
  - **ReactJS**
  - **React Native**
  
- :office:  &nbsp; Trabalho na empresa **AGE - Assessoria e Gestão Educacional**
- <br/> :purple_heart: &nbsp; Colaboro no desenvolvimento de sistemas e gerenciamento de projetos.
+ <br/>
  
-  <br/>
- 
+ ## Tecnologias Mais Usadas Entre Meus Projetos:
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
  
   <br/>
