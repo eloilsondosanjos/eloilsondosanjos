@@ -18,6 +18,8 @@ Curioso por natureza embarquei nesse foguete e consegui sair do absoluto zero ao
 <img align="left" alt="React Native" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/react-native.png" />
 <img align="left" alt="Node JS" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/node.png" />
 <img align="left" alt="Postgresql" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/postgresql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/mysql.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/mongo.png" />
 <img align="left" alt="Docker" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/docker.png" />
 
 <br>
