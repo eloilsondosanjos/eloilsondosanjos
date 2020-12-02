@@ -12,12 +12,13 @@ Curioso por natureza embarquei nesse foguete e consegui sair do absoluto zero ao
 
  ## 🚀 Algumas das tecnologias que venho estudando:
  
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Mysql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Postgresql" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/javascript.png" />
+<img align="left" alt="Typescript" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/typescript.png" />
+<img align="left" alt="Mysql" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/react.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/react native.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/node.png" />
+<img align="left" alt="Postgresql" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/postgresql.png" />
+<img align="left" alt="Docker" width="50px" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/docker.png" />
 
 <br>
 <br>
