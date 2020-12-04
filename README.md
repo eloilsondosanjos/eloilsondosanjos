@@ -1,10 +1,6 @@
 <img height="350" width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/banner-github.png">
 
-## 📌 Olá gente boa, chega aí, tudo tranquilo? :wave:
-
-<br>
-
- ## 🚀 Algumas das tecnologias que venho estudando:
+## 🚀 Algumas das tecnologias que venho estudando:
  
 </br> 
 <div>
@@ -22,11 +18,11 @@
 </br>
 </br>
 
-  ## 💻 Tecnologias mais usadas entre meus projetos:
+## 💻 Tecnologias mais usadas entre meus projetos:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true)
  
- ## 🎯 Status Github:
+## 🎯 Status Github:
 
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true)
  
