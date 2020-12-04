@@ -1,8 +1,6 @@
 <img width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/GitHub2.gif?raw=true">
 
-## 📌 Olá, chega aí gente boa, tudo tranquilo? :wave:
-
-Curioso por natureza embarquei nesse foguete e consegui sair do absoluto zero ao desenvolvimento completo de aplicações em menos de um ano! Meu compromisso é não parar no tempo e poder contar com a ajuda da comunidade dev nesse crescimento rumo ao próximo nível é sensacional.
+## 📌 Olá gente boa, chega aí, tudo tranquilo? :wave:
 
 <br>
 
