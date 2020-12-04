@@ -1,4 +1,4 @@
-<img width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/banner-github.png">
+<img height="350" width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/banner-github.png">
 
 ## 📌 Olá gente boa, chega aí, tudo tranquilo? :wave:
 
