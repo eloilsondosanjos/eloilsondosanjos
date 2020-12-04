@@ -1,4 +1,4 @@
-<img height="350" width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/banner-github.png">
+<img height="300" width="1500" src="https://github.com/eloilsondosanjos/eloilsondosanjos/blob/master/banner-github.png">
 
 ## 🚀 Algumas das tecnologias que venho estudando:
  
