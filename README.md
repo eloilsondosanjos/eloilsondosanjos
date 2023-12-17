@@ -57,16 +57,18 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 🌐 Connect with Me:
 
+<div>
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
-  <img height="40" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
+  <img height="40" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png"/>
 </a>
 
 <a href="https://www.instagram.com/elo_dosanjos" target="_blank">
-  <img height="40" alt="Instagram" src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" />
+  <img height="40" alt="Instagram" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
 </a>
 <a href="https://twitter.com/eloilson_dos" target="_blank">
   <img  height="40" alt="Email" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
 </a>
+</div>
 </br>
 </br>
 Let's innovate and build together! 💻✨
