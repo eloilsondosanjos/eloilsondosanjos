@@ -29,19 +29,18 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ### Soft Skills:
 
-`Effective Communication`
-`Teamwork`
-`Adaptability`
-`Problem Solving`
-`Critical Thinking`
-`Leadership`
-`Empathy`
-`Time Management`
-`Self-Confidence`
-`Resilience`
-`Professional Ethics`
-`Creative Thinking`
-`Self-Awareness`
+💬 `Effective Communication`
+🤝 `Teamwork`
+🔄 `Adaptability`
+🤯 `Problem Solving`
+🧠 `Critical Thinking`
+🏆 `Leadership`
+🤗 `Empathy`
+⌛ `Time Management`
+😎 `Self-Confidence`
+🏋️‍♂️ `Resilience`
+📚 `Professional Ethics`
+🧘‍♂️`Self-Awareness`
 
 ## 💻 Most used technologies among my projects:
 
