@@ -57,7 +57,6 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 🌐 Connect with Me:
 
-<div>
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
   <img height="60" alt="Eloilson dos Anjos" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
 </a>
@@ -71,7 +70,6 @@ Full Stack proficiency in creating robust and scalable applications.
 <a href="mailto:eloilson.ageedu@gmail.com" target="_blank">
   <img  height="85" width="70" alt="E-mail" src="https://cdn.icon-icons.com/icons2/1826/PNG/96/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />
 </a>
-</div> 
 
 </br>
 Let's innovate and build together! 💻✨
