@@ -44,15 +44,15 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 💻 Most used technologies among my projects:
 
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=transparent"/>
+ <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=transparent"/>
  
 
 ## 🎯 Status Github:
 
 <div style="display: flex;">
-  <img height="180" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
+  <img height="150" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eloilsondosanjos&show_icons=true&hide_title=true&fire=5194F0&ring=5194F0&currStreakLabel=5194F0&theme=transparent"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eloilsondosanjos&show_icons=true&hide_title=true&fire=5194F0&ring=5194F0&currStreakLabel=5194F0&theme=transparent"/>
 </div> 
 
 ## 🌐 Connect with Me:
