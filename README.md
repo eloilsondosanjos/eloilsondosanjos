@@ -27,7 +27,7 @@ Full Stack proficiency in creating robust and scalable applications.
     <img alt="docker" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" height="60"/>
     <img alt="git" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" height="60"/>
 
-### Soft Skills:
+### 🌟 Soft Skills:
 
 💬 `Effective Communication`
 🤝 `Teamwork`
