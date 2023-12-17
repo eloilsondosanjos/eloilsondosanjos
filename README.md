@@ -13,16 +13,17 @@ Full Stack proficiency in creating robust and scalable applications.
 ### 🔧 Hard Skills:
  
 <div>
-    <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="60"/>
-    <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="60"/>
     <img alt="js" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="60"/>
     <img margin="10" alt="ts" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="60"/>
     <img alt="python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="60"/>
-    <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="60"/>
     <img alt="nodejs" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png?v=638179441380000000" height="60"/>
+    <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="60"/>
+    <img alt="sequelize" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" height="60"/>
+    <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="60"/>
+    <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="60"/>
     <img alt="vuejs" src="https://logosdownload.com/logo/vue.js-logo-512.png" height="60"/>
     <img alt="react" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" height="60"/>
-    <img alt="sequelize" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" height="60"/>
+    <img alt="bootstrap" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" height="60"/>
     <img alt="docker" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" height="60"/>
     <img alt="git" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" height="60"/>
 
