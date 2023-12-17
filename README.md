@@ -13,18 +13,18 @@ Full Stack proficiency in creating robust and scalable applications.
 ### 🔧 Hard Skills:
  
 <div>
-    <img alt="html" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" width="60" height="60"/>
-    <img alt="css" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" width="60" height="60"/>
-    <img alt="js" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="60" height="60"/>
-    <img alt="ts" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_typescript_official_icon_130107.png" width="60" height="60"/>
-    <img alt="python" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_python_icon_130221.png" width="60" height="60"/>
-    <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="60" height="60"/>
-    <img alt="nodejs" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_node_icon_130301.png" width="60" height="65"/>
-    <img alt="vuejs" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/vuejs_original_wordmark_logo_icon_146305.png" width="60" height="60"/>
-    <img alt="react" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/react_original_wordmark_logo_icon_146375.png" width="60" height="60"/>
-    <img alt="sequelize" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sequelize_icon_130173.png" width="60" height="60"/>
-    <img alt="docker" src="https://cdn.icon-icons.com/icons2/2415/PNG/96/docker_original_wordmark_logo_icon_146557.png" width="60" height="65"/>
-    <img alt="git" src="https://git-scm.com/images/logo@2x.png" height="60"/>
+    <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="60"/>
+    <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="60" height="60"/>
+    <img alt="js" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="60" height="60"/>
+    <img alt="ts" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="60" height="60"/>
+    <img alt="python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="60"/>
+    <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="60"/>
+    <img alt="nodejs" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png?v=638179441380000000" height="60"/>
+    <img alt="vuejs" src="https://logosdownload.com/logo/vue.js-logo-512.png" height="60"/>
+    <img alt="react" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" height="60"/>
+    <img alt="sequelize" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" height="60"/>
+    <img alt="docker" src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" height="60"/>
+    <img alt="git" src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" height="60"/>
 
 ### Soft Skills:
 
@@ -49,7 +49,7 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 🎯 Status Github:
 
-<div style="display: flex;">
+<div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eloilsondosanjos&show_icons=true&hide_title=true&fire=5194F0&ring=5194F0&currStreakLabel=5194F0&theme=transparent"/>
@@ -67,6 +67,7 @@ Full Stack proficiency in creating robust and scalable applications.
 <a href="https://twitter.com/eloilson_dos" target="_blank">
   <img  height="40" alt="E-mail" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
 </a>
+</br>
 </br>
 Let's innovate and build together! 💻✨
 
