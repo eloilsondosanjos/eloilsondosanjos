@@ -50,29 +50,27 @@ Full Stack proficiency in creating robust and scalable applications.
 ## 🎯 Status Github:
 
 <div style="display: flex;">
-  <img height="150" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eloilsondosanjos&show_icons=true&hide_title=true&fire=5194F0&ring=5194F0&currStreakLabel=5194F0&theme=transparent"/>
 </div> 
 
 ## 🌐 Connect with Me:
 
-<div style="display: flex; align-items: center;">
-<a style="margin-right: 10px;" href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
+<div>
+<a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
   <img height="60" alt="Eloilson dos Anjos" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
 </a>
 
-<a style="margin-right: 10px;" href="https://www.instagram.com/elo_dosanjos" target="_blank">
+<a href="https://www.instagram.com/elo_dosanjos" target="_blank">
   <img height="65" alt="Instagram" src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" />
 </a>
-<a style="margin-right: 10px;" href="https://twitter.com/eloilson_dos" target="_blank">
+<a href="https://twitter.com/eloilson_dos" target="_blank">
   <img  height="60" alt="E-mail" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
 </a>
 <a href="mailto:eloilson.ageedu@gmail.com" target="_blank">
   <img  height="85" width="70" alt="E-mail" src="https://cdn.icon-icons.com/icons2/1826/PNG/96/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />
 </a>
-
-
 </div> 
 
 </br>
