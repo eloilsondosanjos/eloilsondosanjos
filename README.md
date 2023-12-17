@@ -14,9 +14,9 @@ Full Stack proficiency in creating robust and scalable applications.
  
 <div>
     <img alt="html" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="60"/>
-    <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width="60" height="60"/>
-    <img alt="js" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="60" height="60"/>
-    <img alt="ts" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="60" height="60"/>
+    <img alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="60"/>
+    <img alt="js" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="60"/>
+    <img margin="10" alt="ts" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" height="60"/>
     <img alt="python" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" height="60"/>
     <img alt="sql" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="60"/>
     <img alt="nodejs" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png?v=638179441380000000" height="60"/>
@@ -58,14 +58,14 @@ Full Stack proficiency in creating robust and scalable applications.
 ## 🌐 Connect with Me:
 
 <a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
-  <img height="40" alt="Eloilson dos Anjos" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
+  <img height="40" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>
 </a>
 
 <a href="https://www.instagram.com/elo_dosanjos" target="_blank">
   <img height="40" alt="Instagram" src="https://cdn.icon-icons.com/icons2/836/PNG/96/Instagram_icon-icons.com_66804.png" />
 </a>
 <a href="https://twitter.com/eloilson_dos" target="_blank">
-  <img  height="40" alt="E-mail" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
+  <img  height="40" alt="Email" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
 </a>
 </br>
 </br>
