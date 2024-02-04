@@ -44,7 +44,7 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 💻 Most used technologies among my projects:
 
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=transparent"/>
+ <img height="150" src="github-readme-stats-one-weld-79.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=transparent"/>
  
 
 ## 🎯 Status Github:
