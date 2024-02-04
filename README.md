@@ -50,7 +50,7 @@ Full Stack proficiency in creating robust and scalable applications.
 ## 🎯 Status Github:
 
 <div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=transparent"/>
 
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=eloilsondosanjos&show_icons=true&hide_title=true&fire=5194F0&ring=5194F0&currStreakLabel=5194F0&theme=transparent"/>
 </div> 
