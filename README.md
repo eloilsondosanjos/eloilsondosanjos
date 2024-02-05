@@ -44,14 +44,14 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 💻 Most used technologies among my projects:
 
- <img height="200" src="https://github-readme-stats-theta-two-55.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=gruvbox"/>
+ <img height="150" src="https://github-readme-stats-theta-two-55.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=gruvbox"/>
  
 
 ## 🎯 Status Github:
 
 <div>
-  <img height="180" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=gruvbox"/>
-  <img height="180" src="https://github-readme-streak-stats-beta-lake.vercel.app?user=eloilsondosanjos&theme=gruvbox"/>
+  <img height="150" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=gruvbox"/>
+  <img height="150" src="https://github-readme-streak-stats-beta-lake.vercel.app?user=eloilsondosanjos&theme=gruvbox"/>
 </div> 
 
 ## 🌐 Connect with Me:
