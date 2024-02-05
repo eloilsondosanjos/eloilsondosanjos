@@ -12,8 +12,6 @@
 - **Development**:
 Full Stack proficiency in creating robust and scalable applications.
 
-</br>
-
 ### 🔧 Hard Skills:
 
  </br>
