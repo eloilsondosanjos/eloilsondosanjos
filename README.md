@@ -32,8 +32,11 @@ Full Stack proficiency in creating robust and scalable applications.
     <img alt="docker" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/814bb7f2-2b18-4658-916b-9f604b1e0906" height="60"/>
     <img alt="git" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/f57ae2e6-1d57-4907-9464-c9705f58086a" height="60"/>
 
- </br>
+</br>
+
 ### 🌟 Soft Skills:
+
+ </br>
 
 💬 `Effective Communication`
 🤝 `Teamwork`
