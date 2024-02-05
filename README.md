@@ -2,8 +2,6 @@
 
   I'm Eloilson, a seasoned IT Manager, Full Stack Developer, a technology enthusiast with experience in AWS.
 
- </br>
- 
 ### 🚀 Expertise:
 
 - **Management**: 
@@ -34,8 +32,6 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ### 🌟 Soft Skills:
 
- </br>
-
 💬 `Effective Communication`
 🤝 `Teamwork`
 🔄 `Adaptability`
@@ -49,9 +45,9 @@ Full Stack proficiency in creating robust and scalable applications.
 📚 `Professional Ethics`
 🧘‍♂️`Self-Awareness`
 
-## 💻 Most used technologies among my projects:
 
-   </br>
+## 💻 Most used technologies among my projects:
+ </br>
 
  <img height="150" src="https://github-readme-stats-theta-two-55.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=gruvbox"/>
  <!--- <img  height="200" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/84d98d64-7302-470a-ba71-c6e5440c0330" min-width="150px" max-width="150px" width="300px" align="right" alt="Computador iuriCode"> -->
