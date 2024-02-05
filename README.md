@@ -58,7 +58,7 @@ Full Stack proficiency in creating robust and scalable applications.
 ## 🌐 Connect with Me:
 
 <div>
-<a href="https://www.linkedin.com/in/eloilsondosanjosrocha/" target="_blank">
+<a href="https://www.linkedin.com/in/eloilsondosanjos/" target="_blank">
   <img height="40" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png"/>
 </a>
 
