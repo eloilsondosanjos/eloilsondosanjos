@@ -45,28 +45,22 @@ Full Stack proficiency in creating robust and scalable applications.
 ## 💻 Most used technologies among my projects:
 
  <img height="150" src="https://github-readme-stats-theta-two-55.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=gruvbox"/>
- 
+ <!--- <img  height="200" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/84d98d64-7302-470a-ba71-c6e5440c0330" min-width="150px" max-width="150px" width="300px" align="right" alt="Computador iuriCode"> -->
+
 
 ## 🎯 Status Github:
 
-<div>
-  <img height="150" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=gruvbox"/>
+  <img height="150" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=gruvbox"/> &nbsp;&nbsp;
   <img height="150" src="https://github-readme-streak-stats-beta-lake.vercel.app?user=eloilsondosanjos&theme=gruvbox"/>
-</div> 
+
 
 ## 🌐 Connect with Me:
 
-<div>
-<a href="https://www.linkedin.com/in/eloilsondosanjos/" target="_blank">
-  <img height="40" alt="Linkedin" src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png"/>
-</a>
+<a href="https://www.linkedin.com/in/eloilsondosanjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/elo_dosanjos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/eloilson_dos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="mailto:eloilsondosanjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-<a href="https://www.instagram.com/elo_dosanjos" target="_blank">
-  <img height="40" alt="Instagram" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />
-</a>
-<a href="https://twitter.com/eloilson_dos" target="_blank">
-  <img  height="40" alt="Email" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" />
-</a>
 </div>
 </br>
 </br>
