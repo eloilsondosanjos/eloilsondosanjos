@@ -2,6 +2,8 @@
 
   I'm Eloilson, a seasoned IT Manager, Full Stack Developer, a technology enthusiast with experience in AWS.
 
+ </br>
+ 
 ### 🚀 Expertise:
 
 - **Management**: 
@@ -10,8 +12,11 @@
 - **Development**:
 Full Stack proficiency in creating robust and scalable applications.
 
+</br>
+
 ### 🔧 Hard Skills:
- 
+
+ </br>
 <div>
     <img alt="js" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/28766f23-878d-48e7-859c-abb9f804edb8" height="60"/>
     <img margin="10" alt="ts" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/97e6f939-856e-4b8b-a92c-250ea1b426df" height="60"/>
@@ -27,6 +32,7 @@ Full Stack proficiency in creating robust and scalable applications.
     <img alt="docker" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/814bb7f2-2b18-4658-916b-9f604b1e0906" height="60"/>
     <img alt="git" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/f57ae2e6-1d57-4907-9464-c9705f58086a" height="60"/>
 
+ </br>
 ### 🌟 Soft Skills:
 
 💬 `Effective Communication`
@@ -44,11 +50,15 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 💻 Most used technologies among my projects:
 
+   </br>
+
  <img height="150" src="https://github-readme-stats-theta-two-55.vercel.app/api/top-langs/?username=eloilsondosanjos&layout=compact&hide_title=true&theme=gruvbox"/>
  <!--- <img  height="200" src="https://github.com/eloilsondosanjos/eloilsondosanjos/assets/59416393/84d98d64-7302-470a-ba71-c6e5440c0330" min-width="150px" max-width="150px" width="300px" align="right" alt="Computador iuriCode"> -->
 
 
 ## 🎯 Status Github:
+
+   </br>
 
   <img height="150" src="https://github-readme-stats-git-main-eloilsondosanjos.vercel.app/api?username=eloilsondosanjos&show_icons=true&hide_title=true&theme=gruvbox"/> &nbsp;&nbsp;
   <img height="150" src="https://github-readme-streak-stats-beta-lake.vercel.app?user=eloilsondosanjos&theme=gruvbox"/>
