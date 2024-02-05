@@ -56,15 +56,16 @@ Full Stack proficiency in creating robust and scalable applications.
 
 ## 🌐 Connect with Me:
 
-<a href="https://www.linkedin.com/in/eloilsondosanjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/elo_dosanjos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/eloilson_dos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="mailto:eloilsondosanjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </br>
 
-</div>
-</br>
-</br>
-Let's innovate and build together! 💻✨
+  <a href="https://www.linkedin.com/in/eloilsondosanjos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://www.instagram.com/elo_dosanjos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
+  <a href="mailto:eloilsondosanjos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+  </div>
+  </br>
+  </br>
+  Let's innovate and build together! 💻✨
 
  
 
